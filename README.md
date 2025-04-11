@@ -1,6 +1,6 @@
 # 📚 GutenbergProject
 
-GutenbergProject is a fast and responsive book browsing application built with **React + Vite**, allowing users to explore and search books by genre using the [Gutenberg Project API](https://gutendex.com/). It features infinite scrolling, responsive UI with Material UI, and intuitive navigation.
+GutenbergProject is a fast and responsive book browsing application built with **React + Vite**, allowing users to explore and search books by genre using the [Gutenberg Project API]. It features infinite scrolling, responsive UI with Material UI, and intuitive navigation.
 
 ---
 
@@ -26,6 +26,20 @@ GutenbergProject is a fast and responsive book browsing application built with *
 - [ESLint](https://eslint.org/)
 
 ------------------------------------------------------------------------------------------------------------------
+
+🚀 Setup This Project
+Follow the steps below to get the project up and running locally:
+
+###Clone the Repository
+
+git clone https://github.com/your-username/GutenbergProject.git
+
+#Install Dependencies : 
+npm install
+
+##Run App :
+npm run dev
+The app will be available at http://localhost:5173 by default.
 
 
 
